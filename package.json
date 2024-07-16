@@ -255,7 +255,7 @@
     "css-selector-tokenizer": "^0.7.3",
     "css-declaration-sorter": "^4.0.1",
     "cssesc": "^3.0.0",
-    "css-tree": "^1.0.0-alpha.37",
+    "css-tree": "^1.1.3",
     "cssnano-preset-default": "^4.0.8",
     "css-what": "^6.1.0",
     "cssnano-util-raw-cache": "^4.0.1",
