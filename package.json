@@ -1068,7 +1068,7 @@
     "type": "^1.2.0",
     "type-check": "^0.3.2",
     "type-is": "^1.6.18",
-    "typed-array-buffer": "^1.0.0",
+    "typed-array-buffer": "^1.0.2",
     "type-fest": "^0.21.3",
     "typed-array-length": "^1.0.4",
     "typed-array-byte-offset": "^1.0.0",
