@@ -239,7 +239,7 @@
     "cosmiconfig": "^7.1.0",
     "css": "^2.2.4",
     "core-util-is": "^1.0.3",
-    "crypto-browserify": "^3.12.0",
+    "crypto-browserify": "^3.12.1",
     "create-hash": "^1.2.0",
     "cross-spawn": "^7.0.3",
     "css-color-names": "^0.0.4",
