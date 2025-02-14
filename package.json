@@ -158,7 +158,7 @@
     "browser-process-hrtime": "^1.0.0",
     "browserify-cipher": "^1.0.1",
     "braces": "^2.3.2",
-    "browserify-sign": "^4.2.1",
+    "browserify-sign": "^4.2.3",
     "browserify-des": "^1.0.2",
     "browser-resolve": "^1.11.3",
     "browserify-aes": "^1.2.0",
